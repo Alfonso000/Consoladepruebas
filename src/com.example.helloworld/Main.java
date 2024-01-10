@@ -1,8 +1,10 @@
 package com.example.helloworld;
 
-public class HelloWorld {
+public class Main {
+
     public static void main(String[] args) {
-        System.out.println("Hello, cambios!");
+
+        System.out.println("Hello, cambios22!");
     }
 
 }
