@@ -1,7 +1,7 @@
 public class Perritos {
     public class Perritos {
         public String getRaza() {
-            System.out.println("Texto entre medias: ");
+            System.out.println("otro texto : ");
             return raza;
         }
 
